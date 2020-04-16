@@ -2,6 +2,14 @@
 
 file structure
 
+
+
+
+
+
+
+
+
  project
 ---- templates
 -------- base.html <!-- contains common layout and links -->
